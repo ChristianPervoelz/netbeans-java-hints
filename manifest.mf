@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: de.cp.netbeans.supplemental.hints/1
+OpenIDE-Module-Implementation-Version: 1
+OpenIDE-Module-Localizing-Bundle: de/cp/netbeans/supplemental/hints/Bundle.properties
+OpenIDE-Module-Specification-Version: 1
+
