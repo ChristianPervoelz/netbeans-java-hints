@@ -1,11 +1,3 @@
-/*
- *  Copyright 2016 ADVA Optical Networking SE. All rights reserved.
- *
- *  Owner: cpervoelz
- *
- *  $Id$
- */
-
 package de.cp.netbeans.supplemental.hints.toomanyof;
 
 import com.sun.source.tree.BreakTree;

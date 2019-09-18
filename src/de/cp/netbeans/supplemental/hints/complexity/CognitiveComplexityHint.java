@@ -1,10 +1,3 @@
-/*
- *  Copyright 2017 ADVA Optical Networking SE. All rights reserved.
- *
- *  Owner: cpervoelz
- *
- *  $Id$
- */
 package de.cp.netbeans.supplemental.hints.complexity;
 
 import com.sun.source.tree.LineMap;
