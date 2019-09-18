@@ -21,7 +21,7 @@ import org.openide.util.NbBundle.Messages;
 @Hint(displayName = "#DN_TooManyBreakOrContinues", description = "#DESC_TooManyBreakOrContinues", category = "Design")
 @Messages({
   "DN_TooManyBreakOrContinues=Break or Continue count",
-  "DESC_TooManyBreakOrContinues=Indicates there are more break or continue statements inside one loop than specified."
+  "DESC_TooManyBreakOrContinues=Indicates there are more break or continue statements inside one loop than allowed."
 })
 public class TooManyBreakOrContinues {
 

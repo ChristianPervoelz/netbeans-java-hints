@@ -16,7 +16,7 @@ import com.sun.source.util.TreePath;
 @Hint(displayName = "#DN_TooDeepNestingIfForWhileSwitchTry", description = "#DESC_TooDeepNestingIfForWhileSwitchTry", category = "Design")
 @Messages({
   "DN_TooDeepNestingIfForWhileSwitchTry=Nesting of If/For/While/Switch/Try",
-  "DESC_TooDeepNestingIfForWhileSwitchTry=Checks the control flow statements \"if\", \"for\", \"while\", \"switch\" and \"try\" are not be nested too deeply."
+    "DESC_TooDeepNestingIfForWhileSwitchTry=Checks the control flow statements \"if\", \"for\", \"while\", \"switch\" and \"try\" are not nested too deeply."
 })
 public class TooDeepNestingIfForWhileSwitchTry {
 
