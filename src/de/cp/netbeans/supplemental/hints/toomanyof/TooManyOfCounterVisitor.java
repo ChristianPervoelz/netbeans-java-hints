@@ -35,6 +35,10 @@ public class TooManyOfCounterVisitor extends TreeScanner<Integer, Integer>{
     return super.visitContinue(node, p);
   }
 
+  /**
+   * Gets the returns encountered in the method.
+   * @return the amount of return statements in the checked method
+   */
   int getReturns() {
     return returns;
   }
